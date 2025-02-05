@@ -1,1 +1,1 @@
- Normally we use Swift Language for Apple Software Development.   
+ Normally we use Swift Language for Apple Software Development.
