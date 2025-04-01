@@ -1,4 +1,4 @@
-https://developer.apple.com/learn/ 
+https://developer.apple.com/learn/  
 Build apps. Build your future.
 With Swift, anyone can code like the pros. 
 Whether you’re working on a project for school, earning an industry-recognized credential,
