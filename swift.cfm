@@ -1,4 +1,4 @@
-Swift Playground
+Swift Playground 
 If you’re new to app development,
 try Swift Playground, which includes everything you need to go from your
 first line of code to building your first app.
